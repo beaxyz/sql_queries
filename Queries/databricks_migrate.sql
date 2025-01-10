@@ -1,0 +1,1 @@
+SELECT * FROM `fe-dev-sandbox.beatrice_liew_bq.equip_code_desc` LIMIT 1000
